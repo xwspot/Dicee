@@ -1,3 +1,5 @@
 Dicee App
 ========
-An iOS written in Swift. Two dices will show random numbers after Roll button is pressed.
+An iOS app written in Swift. Button Pressed or Shake Gesture will return two dices with random numbers.
+
+
